@@ -2,7 +2,8 @@
 /node_modules
 
 # build
-/lib
+# commenting out, as this needs to be checked in to be able to load from github
+# /lib
 
 # log
 *.log
